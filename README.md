@@ -1,4 +1,4 @@
-# 🛍️ SentimentScope AI – Amazon Review Sentiment Analysis
+# 🛍️ SentimentAI meow – Amazon Review Sentiment Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35-red.svg)](https://streamlit.io)
